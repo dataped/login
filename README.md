@@ -1,5 +1,5 @@
-# dataped.github.io
-daftar repositori data
+# Dataset Datapedia Indonesia
+daftar repositori dataset
 
 ## Daftar Repositori Dataset
 
