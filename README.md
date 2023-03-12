@@ -8,3 +8,7 @@ daftar repositori data
 * https://data.go.id/home
 * https://archive.ics.uci.edu/ml/datasets.php
 * https://www.kaggle.com/datasets
+
+## Tools
+
+* https://go-colly.org/
