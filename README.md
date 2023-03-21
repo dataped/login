@@ -10,7 +10,9 @@ daftar repositori dataset
 * https://www.kaggle.com/datasets
 * https://simreg.bappenas.go.id/assets/temaalus/document/Publikasi/DokPub/PRADA_PROVINSI_JAWA_TIMUR4.PDF
 * https://prada.bappenas.go.id/dashboard/makro?provinsi=Aceh
-
+* https://www.bappenas.go.id/datapublikasishow?q=Rencana%20Pembangunan%20dan%20Rencana%20Kerja%20Pemerintah
+* https://www.bps.go.id/subject/168/potensi-desa.html
+* https://dapo.kemdikbud.go.id/
 
 ## Tools
 
