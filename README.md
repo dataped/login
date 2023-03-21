@@ -8,6 +8,9 @@ daftar repositori dataset
 * https://data.go.id/home
 * https://archive.ics.uci.edu/ml/datasets.php
 * https://www.kaggle.com/datasets
+* https://simreg.bappenas.go.id/assets/temaalus/document/Publikasi/DokPub/PRADA_PROVINSI_JAWA_TIMUR4.PDF
+* https://prada.bappenas.go.id/dashboard/makro?provinsi=Aceh
+
 
 ## Tools
 
