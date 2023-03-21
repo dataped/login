@@ -13,6 +13,7 @@ daftar repositori dataset
 * https://www.bappenas.go.id/datapublikasishow?q=Rencana%20Pembangunan%20dan%20Rencana%20Kerja%20Pemerintah
 * https://www.bps.go.id/subject/168/potensi-desa.html
 * https://dapo.kemdikbud.go.id/
+* https://ai-innovation.id/server/static/ebook/stranas-ka.pdf
 
 ## Tools
 
