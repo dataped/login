@@ -3,6 +3,8 @@ daftar repositori dataset
 
 ## Daftar Repositori Dataset
 
+Berikut dataset yang bisa dijadikan acuan untuk publikasi dan penelitian, apabila ada dataset yang perlu di tambahkan bisa melakukan pull request di [repo dataped](https://github.com/dataped/dataped.github.io)
+
 * https://www.bps.go.id/publication/2022/02/25/0a2afea4fab72a5d052cb315/statistik-indonesia-2022.html
 * https://databoks.katadata.co.id/
 * https://data.go.id/home
