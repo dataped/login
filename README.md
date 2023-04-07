@@ -17,6 +17,10 @@ Berikut dataset publik yang bisa dijadikan bahan untuk analisis dan penelitian, 
 * https://dapo.kemdikbud.go.id/
 * https://ai-innovation.id/server/static/ebook/stranas-ka.pdf
 
-## Tools
+## Tools 
 
+Untuk menambang data dari website atau sosial media :
 * https://go-colly.org/
+
+Untuk pengembangan Blockchain :
+* https://github.com/hyperledger/fabric
