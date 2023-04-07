@@ -23,4 +23,5 @@ Untuk menambang data dari website atau sosial media :
 * https://go-colly.org/
 
 Untuk pengembangan Blockchain :
+* https://www.hyperledger.org/
 * https://github.com/hyperledger/fabric
